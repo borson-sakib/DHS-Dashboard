@@ -1,3 +1,3 @@
 # DHS-Dashboard
 
-![](ss1.png)
+![Interface Screenshot](ss1.png)
